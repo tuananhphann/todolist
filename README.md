@@ -1,0 +1,3 @@
+- This is a simple to-do-list project that I created using Python
+- This project is a collection of the knowledge I learned during the past year in college. So, I'm pretty proud of it haha.
+- Some features: add, delete, update and show
